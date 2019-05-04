@@ -11,6 +11,7 @@ namespace targilBait_5_GalBenZvi
         static void Main(string[] args)
         {
             Console.WriteLine("This is the first change");
+            Console.WriteLine("This is the second change");
         }
     }
 }
